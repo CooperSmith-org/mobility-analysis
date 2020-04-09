@@ -1,0 +1,7 @@
+country,page_num,plot_num,region,plot_name,asterisk,headline
+Cameroon,1,1,Cameroon,Retail & recreation,False,-26%
+Cameroon,1,2,Cameroon,Grocery & pharmacy,False,-20%
+Cameroon,1,3,Cameroon,Parks,False,-19%
+Cameroon,2,4,Cameroon,Transit stations,False,-23%
+Cameroon,2,5,Cameroon,Workplaces,False,-3%
+Cameroon,2,6,Cameroon,Residential,False,+9%

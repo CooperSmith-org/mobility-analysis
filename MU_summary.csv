@@ -1,0 +1,67 @@
+country,page_num,plot_num,region,plot_name,asterisk,headline
+Mauritius,1,1,Mauritius,Retail & recreation,False,-89%
+Mauritius,1,2,Mauritius,Grocery & pharmacy,False,-86%
+Mauritius,1,3,Mauritius,Parks,False,-88%
+Mauritius,2,4,Mauritius,Transit stations,False,-89%
+Mauritius,2,5,Mauritius,Workplaces,False,-69%
+Mauritius,2,6,Mauritius,Residential,False,+24%
+Mauritius,3,7,Flacq District,Retail & recreation,False,-92%
+Mauritius,3,8,Flacq District,Grocery & pharmacy,False,-89%
+Mauritius,3,9,Flacq District,Parks,True,-88%
+Mauritius,3,10,Flacq District,Transit stations,True,Not enough data for this date
+Mauritius,3,11,Flacq District,Workplace,False,-72%
+Mauritius,3,12,Flacq District,Residential,True,+8%
+Mauritius,3,13,Grand Port District,Retail & recreation,False,-94%
+Mauritius,3,14,Grand Port District,Grocery & pharmacy,False,-90%
+Mauritius,3,15,Grand Port District,Parks,True,-90%
+Mauritius,3,16,Grand Port District,Transit stations,False,-94%
+Mauritius,3,17,Grand Port District,Workplace,False,-70%
+Mauritius,3,18,Grand Port District,Residential,True,+8%
+Mauritius,4,19,Moka District,Retail & recreation,False,-97%
+Mauritius,4,20,Moka District,Grocery & pharmacy,True,-76%
+Mauritius,4,21,Moka District,Parks,True,Not enough data for this date
+Mauritius,4,22,Moka District,Transit stations,True,-74%
+Mauritius,4,23,Moka District,Workplace,False,-65%
+Mauritius,4,24,Moka District,Residential,True,+8%
+Mauritius,4,25,Pamplemousses District,Retail & recreation,False,-81%
+Mauritius,4,26,Pamplemousses District,Grocery & pharmacy,False,-82%
+Mauritius,4,27,Pamplemousses District,Parks,True,-91%
+Mauritius,4,28,Pamplemousses District,Transit stations,True,-81%
+Mauritius,4,29,Pamplemousses District,Workplace,False,-67%
+Mauritius,4,30,Pamplemousses District,Residential,True,+7%
+Mauritius,5,31,Plaines Wilhems District,Retail & recreation,False,-91%
+Mauritius,5,32,Plaines Wilhems District,Grocery & pharmacy,False,-88%
+Mauritius,5,33,Plaines Wilhems District,Parks,True,Not enough data for this date
+Mauritius,5,34,Plaines Wilhems District,Transit stations,False,-92%
+Mauritius,5,35,Plaines Wilhems District,Workplace,False,-71%
+Mauritius,5,36,Plaines Wilhems District,Residential,True,+37%
+Mauritius,5,37,Port Louis District,Retail & recreation,False,-88%
+Mauritius,5,38,Port Louis District,Grocery & pharmacy,False,-89%
+Mauritius,5,39,Port Louis District,Parks,True,-85%
+Mauritius,5,40,Port Louis District,Transit stations,False,-87%
+Mauritius,5,41,Port Louis District,Workplace,False,-65%
+Mauritius,5,42,Port Louis District,Residential,True,+6%
+Mauritius,6,43,Rivière Noire District,Retail & recreation,False,-92%
+Mauritius,6,44,Rivière Noire District,Grocery & pharmacy,False,-88%
+Mauritius,6,45,Rivière Noire District,Parks,False,-91%
+Mauritius,6,46,Rivière Noire District,Transit stations,True,-82%
+Mauritius,6,47,Rivière Noire District,Workplace,False,-73%
+Mauritius,6,48,Rivière Noire District,Residential,True,+8%
+Mauritius,6,49,Rivière du Rempart District,Retail & recreation,False,-93%
+Mauritius,6,50,Rivière du Rempart District,Grocery & pharmacy,False,-93%
+Mauritius,6,51,Rivière du Rempart District,Parks,True,-100%
+Mauritius,6,52,Rivière du Rempart District,Transit stations,True,Not enough data for this date
+Mauritius,6,53,Rivière du Rempart District,Workplace,False,-67%
+Mauritius,6,54,Rivière du Rempart District,Residential,True,+8%
+Mauritius,7,55,Rodrigues District,Retail & recreation,True,Not enough data for this date
+Mauritius,7,56,Rodrigues District,Grocery & pharmacy,True,Not enough data for this date
+Mauritius,7,57,Rodrigues District,Parks,True,-55%
+Mauritius,7,58,Rodrigues District,Transit stations,True,Not enough data for this date
+Mauritius,7,59,Rodrigues District,Workplace,True,-62%
+Mauritius,7,60,Rodrigues District,Residential,True,Not enough data for this date
+Mauritius,7,61,Savanne District,Retail & recreation,False,-91%
+Mauritius,7,62,Savanne District,Grocery & pharmacy,True,-83%
+Mauritius,7,63,Savanne District,Parks,True,-28%
+Mauritius,7,64,Savanne District,Transit stations,True,Not enough data for this date
+Mauritius,7,65,Savanne District,Workplace,False,-69%
+Mauritius,7,66,Savanne District,Residential,True,Not enough data for this date

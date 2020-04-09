@@ -1,0 +1,7 @@
+country,page_num,plot_num,region,plot_name,asterisk,headline
+South Africa,1,1,South Africa,Retail & recreation,False,-79%
+South Africa,1,2,South Africa,Grocery & pharmacy,False,-60%
+South Africa,1,3,South Africa,Parks,False,-55%
+South Africa,2,4,South Africa,Transit stations,False,-80%
+South Africa,2,5,South Africa,Workplaces,False,-49%
+South Africa,2,6,South Africa,Residential,False,+24%

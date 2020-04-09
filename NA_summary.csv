@@ -1,0 +1,7 @@
+country,page_num,plot_num,region,plot_name,asterisk,headline
+Namibia,1,1,Namibia,Retail & recreation,False,-56%
+Namibia,1,2,Namibia,Grocery & pharmacy,False,-42%
+Namibia,1,3,Namibia,Parks,False,-39%
+Namibia,2,4,Namibia,Transit stations,False,-74%
+Namibia,2,5,Namibia,Workplaces,False,-28%
+Namibia,2,6,Namibia,Residential,False,+16%

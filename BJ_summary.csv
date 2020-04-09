@@ -1,0 +1,7 @@
+country,page_num,plot_num,region,plot_name,asterisk,headline
+Benin,1,1,Benin,Retail & recreation,False,-16%
+Benin,1,2,Benin,Grocery & pharmacy,False,+0%
+Benin,1,3,Benin,Parks,False,+10%
+Benin,2,4,Benin,Transit stations,False,-14%
+Benin,2,5,Benin,Workplaces,False,+2%
+Benin,2,6,Benin,Residential,False,+5%

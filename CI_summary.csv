@@ -1,0 +1,7 @@
+country,page_num,plot_num,region,plot_name,asterisk,headline
+Côte d'Ivoire,1,1,Côte d'Ivoire,Retail & recreation,False,-35%
+Côte d'Ivoire,1,2,Côte d'Ivoire,Grocery & pharmacy,False,-21%
+Côte d'Ivoire,1,3,Côte d'Ivoire,Parks,False,-21%
+Côte d'Ivoire,2,4,Côte d'Ivoire,Transit stations,False,-33%
+Côte d'Ivoire,2,5,Côte d'Ivoire,Workplaces,False,-9%
+Côte d'Ivoire,2,6,Côte d'Ivoire,Residential,False,+14%

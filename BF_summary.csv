@@ -1,0 +1,7 @@
+country,page_num,plot_num,region,plot_name,asterisk,headline
+Burkina Faso,1,1,Burkina Faso,Retail & recreation,False,-34%
+Burkina Faso,1,2,Burkina Faso,Grocery & pharmacy,False,-25%
+Burkina Faso,1,3,Burkina Faso,Parks,False,-22%
+Burkina Faso,2,4,Burkina Faso,Transit stations,False,-53%
+Burkina Faso,2,5,Burkina Faso,Workplaces,False,-3%
+Burkina Faso,2,6,Burkina Faso,Residential,False,+15%

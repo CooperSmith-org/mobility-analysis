@@ -1,0 +1,7 @@
+country,page_num,plot_num,region,plot_name,asterisk,headline
+Zambia,1,1,Zambia,Retail & recreation,False,-21%
+Zambia,1,2,Zambia,Grocery & pharmacy,False,-8%
+Zambia,1,3,Zambia,Parks,False,-6%
+Zambia,2,4,Zambia,Transit stations,False,-24%
+Zambia,2,5,Zambia,Workplaces,False,+0%
+Zambia,2,6,Zambia,Residential,False,+10%

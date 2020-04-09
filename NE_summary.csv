@@ -1,0 +1,7 @@
+country,page_num,plot_num,region,plot_name,asterisk,headline
+Niger,1,1,Niger,Retail & recreation,False,-23%
+Niger,1,2,Niger,Grocery & pharmacy,False,-15%
+Niger,1,3,Niger,Parks,False,-19%
+Niger,2,4,Niger,Transit stations,False,-25%
+Niger,2,5,Niger,Workplaces,False,-1%
+Niger,2,6,Niger,Residential,False,+9%
